@@ -1,4 +1,4 @@
-# SelfDrivingRobotCar
+# SelfDrivingCar
 
 Advanced autonomous robot car built with **ESP32**, featuring:
 - Line following (3 IR sensors)
