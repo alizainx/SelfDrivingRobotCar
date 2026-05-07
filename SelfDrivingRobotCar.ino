@@ -7,8 +7,6 @@
 
 // Author: Ali Zain
 
-// Date: January 15, 2026
-
 // Hardware: ESP32 DevKit, L298N Motor Driver, HC-SR04 Ultrasonic,
 // NEO-6M GPS, TCRT5000 IR Array (3 sensors), ESP32-CAM for Vision,
 // Buzzer, Emergency Button on GPIO 0
